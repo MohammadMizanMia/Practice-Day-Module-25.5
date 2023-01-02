@@ -1,5 +1,6 @@
 #include<stdio.h>
 void lower_to_uppercase(char ar[]);
+
 //main function;
 int main()
 {
@@ -25,3 +26,5 @@ void lower_to_uppercase(char ar[])
 
    printf("%s",ar);
 }
+
+
